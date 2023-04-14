@@ -23,5 +23,5 @@ https://app.powerbi.com/links/mumrBahMV6?ctid=6efd0f20-57c8-4447-b53f-00d4992ca5
 ![dashboard6](https://user-images.githubusercontent.com/130657140/232070329-a125961b-b19f-4b0f-b803-cc76e418012b.PNG)
 ![dashboard7](https://user-images.githubusercontent.com/130657140/232070331-ad60cd1a-befd-41b0-ac1b-900a83049812.PNG)
 <p
-<img src="https://user-images.githubusercontent.com/130657140/232070123-8d738d60-30cb-4c9e-84e8-248c98388473.PNG)" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/130657140/232070123-8d738d60-30cb-4c9e-84e8-248c98388473.PNG" width=5% height=5% />
 </p>
