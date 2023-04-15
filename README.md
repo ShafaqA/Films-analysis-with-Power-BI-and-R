@@ -1,16 +1,20 @@
 # Films-analysis-with-Power-BI-and-R
-Hollywood movies from 2007-2012
-Aim: To analyze the performance of Hollywood movies
 
-Data: Title, genre, studio, profitability and ratings for movies released 2007-2012. Source: InformationIsBeautiful.net
+Aim: Importing the raw data into R Studio to analyze the performance of over 1000 Hollywood movies. Data has different Genre like commedy,action etc.
+Important information: The dataset contained information on rotton tomatoes and customers rating from Hollywood movies from period 2007-2012.Source: InformationIsBeautiful.net.  
+Data set: Title, genre, studio, profitability and ratings for movies released 2007-2012.
 
-Exploring data over 1000 major Hollywood films. Data has different Genre like commedy,action etc.,
+To start, I removed duplicates using the duplicated() function in R Studio. This function identified and removed rows that were exact duplicates of one another. Once duplicates were removed,
 
-I Used R to clean the data. Visualization Using Power BI
+I then inspected the remaining columns to identify any errors or inconsistencies in the data.
 
-Specifications: For the dashboard, the company would like you to use their brand colors which are blue, green and brown. You can use light or dark shades of each color. For example, light blue and dark blue are acceptable.
+After cleaning the data, I exported the cleaned dataset as a CSV file to be used in Power BI. I used the write.csv() function to export the cleaned dataset as a CSV file named "clean_df.csv" without row numbers.
 
-# During anaylysis i created box-plot and a Bar-chart and scatter plot as below
+Next, I imported the CSV file into Power BI and created a visual dashboard.
+
+Specifications and Requiremnt from the client: For the dashboard, the company likes to use their brand colors which are blue, green and brown. The company accepts light or dark shades of each color. For example, light blue and dark blue are acceptable.
+
+# During data cleansing process in R-studio, I created box-plot,Bar-chart and scatter plot. I have attached visuals below:
 
 <p align="left" style="margin-bottom: 0px !important;">
 <img width="700" src="https://user-images.githubusercontent.com/130657140/232245439-3b5cd232-6aa3-42d9-a04f-8365b84a57de.png">
