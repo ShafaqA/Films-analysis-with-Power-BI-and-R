@@ -10,9 +10,6 @@ I Used R to clean the data. Visualization Using Power BI
 
 Specifications: For the dashboard, the company would like you to use their brand colors which are blue, green and brown. You can use light or dark shades of each color. For example, light blue and dark blue are acceptable.
 
-my powerBI
-https://app.powerbi.com/links/mumrBahMV6?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare
-
 
 <p align="left" style="margin-bottom: 0px !important;">
 <img width="500" src="https://user-images.githubusercontent.com/130657140/232070123-8d738d60-30cb-4c9e-84e8-248c98388473.PNG">
@@ -33,3 +30,6 @@ https://app.powerbi.com/links/mumrBahMV6?ctid=6efd0f20-57c8-4447-b53f-00d4992ca5
 <p align="left" style="margin-bottom: 0px !important;">
 <img width="500" src="https://user-images.githubusercontent.com/130657140/232070329-a125961b-b19f-4b0f-b803-cc76e418012b.PNG">
 </p>
+
+Click here to see my interactive powerBI Dashboard
+https://app.powerbi.com/links/mumrBahMV6?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare
