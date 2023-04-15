@@ -1,3 +1,4 @@
+
 # Films-analysis-with-Power-BI-and-R
 
 Aim: Importing the raw data into R Studio to analyze the performance of over 1000 Hollywood movies. Data has different Genre like commedy,action etc.
@@ -16,11 +17,17 @@ Specifications and Requiremnt from the client: For the dashboard, the company li
 
 # During data cleansing process in R-studio, I created box-plot,Bar-chart and scatter plot. I have attached visuals below:
 
+
 <p align="left" style="margin-bottom: 0px !important;">
 <img width="700" src="https://user-images.githubusercontent.com/130657140/232245439-3b5cd232-6aa3-42d9-a04f-8365b84a57de.png">
 </p>
 
+
 # My powerBi Viusals and Dashboard link is as follows:
+<p align="left" style="margin-bottom: 0px !important;">
+<img width="500" src="https://user-images.githubusercontent.com/130657140/232254036-f1d5ca29-15f4-49ec-acb3-88096612f73c.PNG">
+</p>
+
 <p align="left" style="margin-bottom: 0px !important;">
 <img width="500" src="https://user-images.githubusercontent.com/130657140/232070123-8d738d60-30cb-4c9e-84e8-248c98388473.PNG">
 </p>
