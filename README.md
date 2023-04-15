@@ -10,7 +10,13 @@ I Used R to clean the data. Visualization Using Power BI
 
 Specifications: For the dashboard, the company would like you to use their brand colors which are blue, green and brown. You can use light or dark shades of each color. For example, light blue and dark blue are acceptable.
 
+# During anaylysis i created box-plot and a Bar-chart and scatter plot as below
 
+<p align="left" style="margin-bottom: 0px !important;">
+<img width="700" src="https://user-images.githubusercontent.com/130657140/232245439-3b5cd232-6aa3-42d9-a04f-8365b84a57de.png">
+</p>
+
+# My powerBi Viusals and Dashboard link is as follows:
 <p align="left" style="margin-bottom: 0px !important;">
 <img width="500" src="https://user-images.githubusercontent.com/130657140/232070123-8d738d60-30cb-4c9e-84e8-248c98388473.PNG">
 </p>
